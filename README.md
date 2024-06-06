@@ -8,10 +8,6 @@ This is the interior design startup website developed in react js and we can edi
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Scripts](#scripts)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
